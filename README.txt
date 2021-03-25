@@ -1,11 +1,11 @@
-# Welcome to Eureka Dreams!
+#Welcome to Eureka Dreams!
 
 Hi! Welcome to  **Eureka Dreams**. 
 A soon to be advanced consulting service.
 
 
 
-# Publication
+#Publication
 
 [Live Site](https://trusting-benz-1747a8.netlify.app/index.html), 
 

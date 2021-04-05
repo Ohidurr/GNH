@@ -17,9 +17,7 @@ A soon to be advanced consulting service.
 
 ```mermaid
 graph LR
-
 A(Consult) --> B(Design)
 B --> C{Production}
-
 ```
 Easy. Simple. Ready.

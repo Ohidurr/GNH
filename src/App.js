@@ -1,6 +1,6 @@
 import React from 'react';
-import NavBar from './NavBar';
-import HeroSection from './HeroSection';
+import NavBar from './components/NavBar';
+import HeroSection from './components/HeroSection';
 // Import other sections as you create them
 
 function App() {
